@@ -1,0 +1,35 @@
+  body{
+    background-color:#e0f0ff;
+  }
+  body{font-family: Calibri;}
+  header{ 
+    background-color:#668;
+    font-family: 'Luckiest Guy', cursive;
+
+    font-size: 30px;
+    padding-bottom:1px;
+
+  }
+  header h1{
+    text-align: center;
+  }
+
+  marquee{
+    font-family: 'Fredoka one', cursive;
+  }
+  a{
+    text-decoration:none;
+    color:black;
+  }
+  a:visited{
+    color:black;
+  }
+  a:active {	
+    color:;
+    background-color:;
+    text-decoration: none;
+  }
+  p{
+    line-height: 0.00003;
+  }
+
